@@ -24,13 +24,13 @@
 ![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,r) 
 
 ### フレームワーク・ライブラリ
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,dotnet) 
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,express,dotnet) 
 
 ### クラウド等
-![Tech Stack](https://skillicons.dev/icons?i=docker,gcp,azure) 
+![Tech Stack](https://skillicons.dev/icons?i=azure,gcp,supabase,firebase) 
 
 ### 開発環境(WSLがなかったので、、、)
-![Tech Stack](https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,eclipse)
+![Tech Stack](https://skillicons.dev/icons?i=linux,redhat,vscode,eclipse,docker)
 
 ### Hate
 
