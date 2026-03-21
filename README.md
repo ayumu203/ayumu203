@@ -19,9 +19,9 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,typescript,cs) 
 
-### 自信ない
+### まあまあ
 
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,r) 
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,python,r) 
 
 ### フレームワーク・ライブラリ
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,express,dotnet) 
