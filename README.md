@@ -30,7 +30,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=azure,gcp,supabase,firebase) 
 
 ### 開発環境(NativeのUbuntu)
-![Tech Stack](https://skillicons.dev/icons?i=linux,ubuntu,vscode,eclipse
+![Tech Stack](https://skillicons.dev/icons?i=linux,ubuntu,vscode,eclipse)
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayumu203&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayumu203&theme=gruvbox)
