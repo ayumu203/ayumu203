@@ -21,7 +21,7 @@
 
 ### まあまあ
 
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,python,r) 
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,go,r) 
 
 ### フレームワーク・ライブラリ
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,express,dotnet) 
