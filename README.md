@@ -1,9 +1,9 @@
 # プロフィール
 
 - **専門**: 情報科学
-- **興味**: ソフトウェアの設計およびその教育方法.
-- **やっていること**: リアルタイムで対戦可能なゲームアプリケーションの作成等.
-- **目標**: 箱庭諸島・ドラゴンクレイズ(2025年現在まだ生きていることに驚き)のようなWebプラットフォームで楽しめるゲームを作りたい.
+- **興味**: ソフトウェアの設計(UML, クリーンアーキテクチャ, ドメイン駆動設計)およびその教育の支援を行うシステムの開発.
+- **やっていること**: リアルタイムで対話・協調プレイ可能なブラウザゲームの作成等.
+- **目標**: 箱庭諸島, ドラゴンクレイズ, チビクエストのようなWebプラットフォームで楽しめるゲームを作りたい.
 
 <p align="left">
   <a href="https://github.com/ayumu203">
@@ -17,20 +17,21 @@
 
 ### 開発言語
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,typescript,cs) 
+![Tech Stack](https://skillicons.dev/icons?i=js,typescript,cs,go) 
 
-### まあまあ
+### そこそこ書ける気もする
 
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,go,r) 
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,r) 
 
 ### フレームワーク・ライブラリ
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,express,dotnet) 
+![Tech Stack](https://skillicons.dev/icons?i=react,vite,nextjs,express,dotnet) 
 
 ### クラウド等
-![Tech Stack](https://skillicons.dev/icons?i=azure,gcp,supabase,firebase) 
+![Tech Stack](https://skillicons.dev/icons?i=azure,gcp,cloudflare,supabase,firebase)
 
 ### 開発環境(NativeのUbuntu)
 ![Tech Stack](https://skillicons.dev/icons?i=linux,ubuntu,vscode,eclipse)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayumu203&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayumu203&theme=gruvbox)
