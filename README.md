@@ -38,6 +38,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayumu203&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayumu203&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayumu203&theme=gruvbox&utcOffset=9)
-
-## 今年
-<img width="788" height="1388" alt="今年のまとめ" src="https://github.com/user-attachments/assets/dae9f7d4-c341-407f-9f45-a80358925e5f" />
